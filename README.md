@@ -23,5 +23,3 @@ This project focuses on accurate layout, spacing, typography, and UI consistency
 - Hover states and micro-interactions
 
 ---
-
-## 📁 Project Structure
